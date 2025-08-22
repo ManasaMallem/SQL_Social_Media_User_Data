@@ -47,6 +47,6 @@ ig_clone_data: This SQL schema forms the backbone of our analysis. The column na
 
 10. Now it's time to find both of them together, find the users who have never commented on any photo or have commented on every photo.
 
-to view the solution for this case study check social-media-data-analysis-with-sql(1).sql file!
+to view the solution for this case study check social-media-data-analysis-with-sql.sql file!
 
 # Thank you for exploring my SQL project. Your interest and support are greatly appreciated.
